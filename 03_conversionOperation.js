@@ -12,3 +12,7 @@ console.log(typeof bool);
 
 let boolConvert =  Boolean(bool);
 console.log(boolConvert)
+
+console.log("yagyansh");
+console.log("2" ===2);
+console.log("02" >=1);
